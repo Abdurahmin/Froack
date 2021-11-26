@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Admin/Froack2/app/src/main/res/drawable/stale_poir.xml" value="0.1935185185185185" />
+        <entry key="..\:/Users/Admin/Froack2/app/src/main/res/drawable/stule_inputs.xml" value="0.17222222222222222" />
+        <entry key="..\:/Users/Admin/Froack2/app/src/main/res/layout/activity_bottom_sheet.xml" value="0.13425925925925927" />
+        <entry key="..\:/Users/Admin/Froack2/app/src/main/res/layout/activity_bottom_sheet_diualog.xml" value="0.2" />
+        <entry key="..\:/Users/Admin/Froack2/app/src/main/res/layout/activity_bottom_sheet_duilag.xml" value="0.2" />
+        <entry key="..\:/Users/Admin/Froack2/app/src/main/res/layout/activity_bottom_sheet_duilog.xml" value="0.13425925925925927" />
+        <entry key="..\:/Users/Admin/Froack2/app/src/main/res/layout/activity_bottom_sheetd_duilag.xml" value="0.2" />
+        <entry key="..\:/Users/Admin/Froack2/app/src/main/res/layout/activity_guer.xml" value="0.2" />
+        <entry key="..\:/Users/Admin/Froack2/app/src/main/res/layout/activity_hirog.xml" value="0.1" />
+        <entry key="..\:/Users/Admin/Froack2/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/Admin/Froack2/app/src/main/res/layout/activity_main2.xml" value="0.2" />
+        <entry key="..\:/Users/Admin/Froack2/app/src/main/res/layout/activity_second_fragment.xml" value="0.2" />
+        <entry key="..\:/Users/Admin/Froack2/app/src/main/res/layout/activity_shared_pref_log.xml" value="0.18" />
+        <entry key="..\:/Users/Admin/Froack2/app/src/main/res/layout/activity_start_board.xml" value="0.2" />
+        <entry key="..\:/Users/Admin/Froack2/app/src/main/res/layout/activity_taime.xml" value="0.13425925925925927" />
+        <entry key="..\:/Users/Admin/Froack2/app/src/main/res/layout/activity_view_pager.xml" value="0.1" />
+        <entry key="..\:/Users/Admin/Froack2/app/src/main/res/layout/activity_zametki.xml" value="0.2" />
+        <entry key="..\:/Users/Admin/Froack2/app/src/main/res/layout/fragment_blank.xml" value="0.2" />
+        <entry key="..\:/Users/Admin/Froack2/app/src/main/res/layout/fragment_first.xml" value="0.12" />
+        <entry key="..\:/Users/Admin/Froack2/app/src/main/res/layout/fragment_second.xml" value="0.2" />
+        <entry key="..\:/Users/Admin/Froack2/app/src/main/res/layout/fragment_third.xml" value="0.18" />
+        <entry key="..\:/Users/Admin/Froack2/app/src/main/res/layout/list_view_layout.xml" value="0.15092592592592594" />
+        <entry key="..\:/Users/Admin/Froack2/app/src/main/res/layout/row_add_item.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_15" project-jdk-name="15" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
